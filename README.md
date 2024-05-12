@@ -18,4 +18,5 @@ The note can be edited or deleted on this page. Validation has been achieved.
 ![editNote](https://github.com/AlperenAktas05/LiteNotes/blob/master/public/img/l4.png)
 
 In this application, the url is hidden with the uuid and access to other profiles is prevented by changing the url.
+![uuid](https://github.com/AlperenAktas05/LiteNotes/blob/master/public/img/image.png)
 
